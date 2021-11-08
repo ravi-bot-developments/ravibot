@@ -1,0 +1,27 @@
+Ravi Changelog (V1.1.7)
+
+> Novelties & Upgrades:
+✅ Change log (Version 1.1.7) - [ 05.06.21 | EST ]
+Bug fixes & general updates -
+Gonna be doing a series of updates over the next week or two. I'm currently going over each command to optimize code and improve functionality and I'll update here if there's any command execution changes. This is just a heads up that inviteinfo module will be changed in terms of implementation to allow servers to have a history of their invite codes (this includes expired invites).
+Embed Updates
+
+Currently the embed creation commands are yet to still be in ( beta ), I am working hard to update this please yes I am lazy sometimes :< 
+Partnerships Update
+I am planning to implement a partnership counting system into the bot ( this is gonna take some time ) 
+The update currently being applied gradually per-shard. So, be patient if the update hasn't reached your server yet.
+
+Other things -
+Finally, I wanted to remind you all that command cooldowns are not here just to annoy you, but to ensure that Ravi does not get rate limited (slow). I did my best to make them as non-disruptive as possible, I will not lower cooldowns even if you ask. but i will try something new if that doesn’t work.
+
+just remember if you see any bugs type !noticeme <reason> with image proofs then it will dm the bot dev the situation !
+NEW Commands -
+(new) !updates - displays current changelogs to Ravi bot
+Require: None
+Usage: !updates(new) !nani topic - displays a specific and detailed help for each commands
+
+Guides: https://ravi-docs.gitbook.io/ravi-documentaion/guide 
+
+Other then that I think thats all for the updates of the bot. 
+
+On a final note, If you have any questions or are just curious, feel free to join the support server and ask !! https://discord.gg/gv2vjKqZP7
