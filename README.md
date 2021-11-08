@@ -19,7 +19,7 @@
 
 ---
 
-RAVI CHANGELOG (V1.1.7)
+**RAVI CHANGELOG (V1.1.7)***
 
 ### Novelties & Upgrades:
 ✅ Change log (Version 1.1.7) - [ 05.06.21 | EST ]
