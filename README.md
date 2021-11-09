@@ -11,6 +11,9 @@
 
 - [ravi apm tickets](https://bit.ly/ravitickets)
 
+### Donate to keep the bot running 24/7:
+- [paypal](https://www.paypal.me/jeffreyz29)
+
 ### Support Server:
 
   <a href="https://discord.gg/gv2vjKqZP7">
