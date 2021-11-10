@@ -11,6 +11,9 @@
 
 - [ravi apm tickets](https://bit.ly/ravitickets)
 
+### Note:
+- This GitHub is still in wip.
+
 ### Donate to keep the bot running 24/7:
 - [paypal](https://www.paypal.me/jeffreyz29)
 
