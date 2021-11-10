@@ -7,10 +7,6 @@
             "description": "Your discord bot's token.",
             "required": true
 
-        "GUILD_ID": {
-            "description": "The id for the server you are hosting this bot for.",
-            "required": true
-
         "OWNERS": {
             "description": "Comma separated user IDs of people that are allowed to use owner only commands. (eval).",
             "required": true
@@ -25,6 +21,11 @@
 
         "PRESENCE_STATUS": {
             "description": "Your discord bot status.",
+            "required": true
+
+
+        "GUILD_ID": {
+            "description": "Your Server ID.",
             "required": true
         }
     }
