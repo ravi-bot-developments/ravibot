@@ -23,7 +23,7 @@
             "description": "Your discord bot activity.",
             "required": true
 
-        "_PRESENCE_STATUS": {
+        "PRESENCE_STATUS": {
             "description": "Your discord bot status.",
             "required": true
         }
