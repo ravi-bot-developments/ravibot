@@ -1,0 +1,27 @@
+{
+    "name": "APM Ticket Bot",
+    "description": "An easy to install APM Ticket bot for APM Portals",
+    "repository": "https://github.com/Jeffreyz1129/ravi",
+    "env": {
+        "TOKEN": {
+            "description": "Your discord bot's token.",
+            "required": true
+        },
+        "GUILD_ID": {
+            "description": "The id for the server you are hosting this bot for.",
+            "required": true
+
+        "OWNERS": {
+            "description": "Comma separated user IDs of people that are allowed to use owner only commands. (eval).",
+            "required": true
+
+        "PREFIX": {
+            "description": "Your discord bot prefix.",
+            "required": true
+   
+        "STATUS": {
+            "description": "Your discord bot status/activity.",
+            "required": true
+        }
+    }
+}
