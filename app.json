@@ -1,7 +1,7 @@
 {
-    "name": "Modmail",
-    "description": "An easy to install Modmail bot for Discord - DM to contact mods!",
-    "repository": "https://github.com/kyb3r/modmail",
+    "name": "apm portal ticket bot",
+    "description": "A apm portal ticketing discord bot!",
+    "repository": "https://github.com/Jeffreyz1129/ravi",
     "env": {
         "TOKEN": {
             "description": "Your discord bot's token.",
