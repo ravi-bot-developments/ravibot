@@ -1,0 +1,32 @@
+{
+    "name": "Modmail",
+    "description": "An easy to install Modmail bot for Discord - DM to contact mods!",
+    "repository": "https://github.com/kyb3r/modmail",
+    "env": {
+        "TOKEN": {
+            "description": "Your discord bot's token.",
+            "required": true
+        },
+        "GUILD_ID": {
+            "description": "The id for the server you are hosting this bot for.",
+            "required": true
+        },
+        "PREFIX": {
+            "description": "The Bot Prefix",
+            "required": true
+        },
+        "OWNERS": {
+            "description": "Comma separated user IDs of people that are allowed to use owner only commands. (eval).",
+            "required": true
+        },
+        "PRESENCE_STATUS": { 
+            "description": "The Bot Presense status."
+            "required": true
+
+        },
+        "STATUS": { 
+            "description": "The Bot Game status.",
+            "required": true
+        }
+    }
+}
