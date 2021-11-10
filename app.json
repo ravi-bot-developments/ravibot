@@ -20,7 +20,11 @@
             "required": true
    
         "STATUS": {
-            "description": "Your discord bot status/activity.",
+            "description": "Your discord bot activity.",
+            "required": true
+
+        "_PRESENCE_STATUS": {
+            "description": "Your discord bot status.",
             "required": true
         }
     }
