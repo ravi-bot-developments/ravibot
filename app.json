@@ -16,11 +16,11 @@
             "required": true
         },
         "OWNERS": {
-            "description": "Comma separated user IDs of people that are allowed to use owner only commands. (eval).",
+            "description": "Comma separated user IDs of people that are allowed to use owner only commands..",
             "required": true
         },
         "PRESENCE_STATUS": { 
-            "description": "The Bot Presense status."
+            "description": "The Bot Presense status.",
             "required": true
 
         },
