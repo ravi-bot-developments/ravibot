@@ -25,5 +25,3 @@
 
 ---
 
-<iframe src="https://ravi-bot.instatus.com/embed-status/dark-sm" width="230" height="61" 
-                      frameBorder="0" scrolling="no" style="border: none;" ></iframe>
