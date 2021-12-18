@@ -15,7 +15,7 @@
 - This Bot is still under a development to be opened sourced.
 
 ### Donate to keep the bot running 24/7:
-- [paypal](https://www.paypal.me/jeffreyz29)
+- [paypal](https://paypal.me/jeffreyz2911)
 
 ### Support Server:
 
